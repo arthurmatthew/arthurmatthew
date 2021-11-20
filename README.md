@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @nootjack
-- 👀 I’m interested in ... making stuff out of code n stuff
-- 🌱 I’m currently learning ... things
-- 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ... nowhere
+Making Cheats EDU
+Quizlet, Blooket, Gimkit and Kahoot cheats
+
+Making Goofy Bot
+Discord music bot with same features as Groovy
+
+Making Bozo Client
+Minecraft hacked client focusing on macros for skyblock
 
 <!---
 nootjack/nootjack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
