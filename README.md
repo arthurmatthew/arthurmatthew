@@ -1,19 +1,23 @@
 # Hey, what's up? <img src="https://emojis.slackmojis.com/emojis/images/1643516071/20940/wave.gif?1643516071"/>
-Welcome to my profile!
-I'm **Matthew**, a full-stack web developer from the United States. 
-<br/>
-Here are some of the things I like to code with...
+<img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+page;Bienvenidos;Bienvenu;ようこそ"/>
+<h3>👋 I'm Matthew, a full-stack web developer from the United States.</h3>
+<h3>⚙ Here are some of the things I like to code with...</h3>
+<h1>:desktop_computer: Front-End Tools</h1>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-008DFF?style=flat&logo=CSS3&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-00AF8C?style=flat&logo=tailwindcss&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white" />
+</p>
+<h1>:electric_plug: Back-End Tools</h1>
+<p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat&logo=Node.js&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-00B40C?style=flat&logo=MongoDB&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-E4E4E4?style=flat&logo=express&logoColor=black" />
 </p>
+Remember... these tools are always changing! I'm always open to try or learn new technologies.
 <h3>My Goals as a full stack developer</h3>
 <table>
   <thead align="center">
@@ -110,7 +114,7 @@ Here are some of the things I like to code with...
   </tbody>
 </table>
 
-Disclaimer: Advanced does not mean mastered. I will always have things to learn and won't ever stop learning them!
+Advanced does not mean mastered. I will always have things to learn and I won't ever stop learning them!
 
 <h3>Well... thanks for stopping by!</h3><br/>
 <img src="https://emojis.slackmojis.com/emojis/images/1624999996/46300/thanks.gif?1624999996"/>
