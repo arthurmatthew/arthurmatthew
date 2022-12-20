@@ -14,8 +14,10 @@
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat&logo=Node.js&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-00B40C?style=flat&logo=MongoDB&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-E4E4E4?style=flat&logo=express&logoColor=black" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-e8a107?style=flat&logo=firebase&logoColor=white" />
+  <img alt="Pocketbase" src="https://img.shields.io/badge/-Pocketbase-999999?style=flat&logo=pocketbase&logoColor=white" />
 </p>
 Remember... these tools are always changing! I'm always open to try or learn new technologies.
 <h3>My Goals as a full stack developer</h3>
