@@ -96,14 +96,10 @@ Remember... these tools are always changing! I'm always open to try or learn new
     </tr>
     <tr>
       <td>Advanced NodeJS</td>
-      <td></td>
+      <td>:heavy_check_mark:</td>
     </tr>
     <tr>
       <td>Advanced ExpressJS</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Learn MongoDB</td>
       <td></td>
     </tr>
     <tr>
