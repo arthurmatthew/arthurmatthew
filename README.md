@@ -1,6 +1,5 @@
 <h1 align="center"> Hey, what's up? <img src="https://emojis.slackmojis.com/emojis/images/1643516071/20940/wave.gif?1643516071"/> </h1>
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter+Tight&pause=1000&color=F7B1EA&center=true&vCenter=true&width=435&lines=Welcome+to+my+page!;%C2%A1Bienvenido+a+mi+p%C3%A1gina!" alt="Typing SVG" /></a></div>
-<img src="https://github-readme-stats.vercel.app/api?username=arthurmatthew&show_icons=true&theme=onedark">
 <h3>👋 I'm Matthew, a fifteen year old full-stack web developer from the United States.</h3>
 <h3>🌎 Visit my <a href="https://www.matthewarthur.dev">website</a> (or check out its <a href="https://www.github.com/arthurmatthew/matthewarthur">source code</a>)
 <h3>⚙ Here are some of the things I like to code with...</h3>
@@ -10,7 +9,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-008DFF?style=flat&logo=CSS3&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-00AF8C?style=flat&logo=tailwindcss&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white" />
 </p>
 <h1>:electric_plug: Back-End Tools</h1>
 <p>
@@ -21,100 +20,10 @@
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-e8a107?style=flat&logo=firebase&logoColor=white" />
   <img alt="Pocketbase" src="https://img.shields.io/badge/-Pocketbase-999999?style=flat&logo=pocketbase&logoColor=white" />
 </p>
-Remember... these tools are always changing! I'm always open to try or learn new technologies.
-<h3>My Goals as a full stack developer</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>:crown: Goal</b></td>
-      <td><b>:question: Completion</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Basic HTML5</td>
-      <td>:heavy_check_mark:</td>
-    </tr>
-    <tr>
-      <td>Advanced HTML5</td>
-      <td>:heavy_check_mark:</td>
-    </tr>
-    <tr>
-      <td>Responsive HTML5</td>
-      <td>:heavy_check_mark:</td>
-    </tr>
-    <tr>
-      <td>Basic CSS3</td>
-      <td>:heavy_check_mark:</td>
-    </tr>
-    <tr>
-      <td>Advanced CSS3</td>
-      <td>:heavy_check_mark:</td>
-    </tr>
-    <tr>
-      <td>Basic JS</td>
-      <td>:heavy_check_mark:</td>
-    </tr>
-    <tr>
-      <td>Advanced JS</td>
-      <td>:heavy_check_mark:</td>
-    </tr>
-    <tr>
-      <td>Learn ES6 JS</td>
-      <td>:heavy_check_mark:</td>
-    </tr>
-    <tr>
-      <td>Advanced ES6 JS</td>
-      <td>:heavy_check_mark:</td>
-    </tr>
-    <tr>
-      <td>Learn Advanced Data Structures</td>
-      <td>:heavy_check_mark:</td>
-    </tr>
-    <tr>
-      <td>Learn Advanced Algorithms</td>
-      <td>:heavy_check_mark:</td>
-    </tr>
-    <tr>
-      <td>Learn TailwindCSS</td>
-      <td>:heavy_check_mark:</td>
-    </tr>
-    <tr>
-      <td>Basic ReactJS</td>
-      <td>:heavy_check_mark:</td>
-    </tr>
-    <tr>
-      <td>Advanced ReactJS</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Learn NodeJS</td>
-      <td>:heavy_check_mark:</td>
-    </tr>
-    <tr>
-      <td>Learn ExpressJS</td>
-      <td>:heavy_check_mark:</td>
-    </tr>
-    <tr>
-      <td>Advanced NodeJS</td>
-      <td>:heavy_check_mark:</td>
-    </tr>
-    <tr>
-      <td>Advanced ExpressJS</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Advance All Backend</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Advanced Full-Stack</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+<p>Remember... these tools are always changing! I'm always open to try or learn new technologies.</p>
 
-Advanced does not mean mastered. I will always have things to learn and I won't ever stop learning them!
+  <h1>:trophy: GitHub Stats</h1>
+<img src="https://github-readme-stats.vercel.app/api?username=arthurmatthew&show_icons=true&theme=onedark">
 
 <h3>Well... thanks for stopping by!</h3><br/>
 <img src="https://emojis.slackmojis.com/emojis/images/1624999996/46300/thanks.gif?1624999996"/>
